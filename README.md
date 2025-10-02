@@ -1,1 +1,1 @@
-"Приветствую, в этом файле содержится крайне важная информация, пожалуйста, сделайте умный вид!"
+"Hi, here you can see very very clever text. Please look smart!"
